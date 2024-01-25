@@ -2,26 +2,20 @@
 
 <div id="header" align="center">
 	<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJwcnYydGYwOGZmamJkYWs4MWZjNmY5OWR2bDY2ejQzZ21uZmh1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+	<p>Welcome to my GitHub profile!</p>
 </div>
-<div id="badges">
+
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tal-zer-aviv/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<div>
-	<img src="https://komarev.com/ghpvc/?username=talzeraviv&color=blue" alt=""/>
-</div>
+<!-- <div id="profile-views" align="center"> -->
+<!-- 	<img src="https://komarev.com/ghpvc/?username=talzeraviv&color=blue" alt=""/> -->
+<!-- </div> -->
 
-<div id='description'>
-    🏦 I'm a Full-Stack Software Developer, currently working as a tutor and guide @ Sela College
-    💻 I use daily: .js, .cs
-    ♟ I love playing Chess
-    ⚡ Fun fact: Aprendo español en el día a día
-</div>
-
-## 💻 Tech Stack:
-  <div align="center">
+  <div id="tech-stack" align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
@@ -38,26 +32,27 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/></code>
 </div>
 
-## Connect with me
+---
+
+### :man_technologist: About Me
+I'm a Software Developer specializing in Full-Stack technologies.
+- 🏦 Currently working as a tutor and guide @ Sela College
+- 👨‍🎓 Learning new technologies all the time, studying React fundamentals at the moment
+- 💻 I use daily: .js, .cs
+- ♟ I love playing Chess
+- ⚡ Fun fact: Aprendo español en el día a día
+
 ## Feel free to browse through my projects below:
 - Backflips, a Video Streaming Platform Modeled after Netflix.
 https://backflips.vercel.app/
 
 - Llamazon, an E-Commerce Platform Modeled after Amazon.
 https://llamazon.vercel.app/
-<!--
-**talzeraviv/talzeraviv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 You can reach out to me at LinkedIn 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talzeraviv&show_icons=true&hide=issues,contribs,prs,stars&theme=transparent)
+_Becoming the best is about never being satisfied with what you've done._
+
+</div>
