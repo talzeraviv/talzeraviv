@@ -1,8 +1,25 @@
 # Hi, I'm Tal! 👋 💻
-    🏦 I'm a Full-Stack Software Developer working for as a tutor and guide @ Sela College
+
+<div id="header" align="center">
+	<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJwcnYydGYwOGZmamJkYWs4MWZjNmY5OWR2bDY2ejQzZ21uZmh1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/tal-zer-aviv/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div>
+![](https://komarev.com/ghpvc/?username=talzeraviv&color=blue)
+</div>
+
+<div id='description'>
+    🏦 I'm a Full-Stack Software Developer, currently working as a tutor and guide @ Sela College
     💻 I use daily: .js, .cs
     ♟ I love playing Chess
     ⚡ Fun fact: Aprendo español en el día a día
+</div>
+
 ## 💻 Tech Stack:
   <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
@@ -22,11 +39,6 @@
 </div>
 
 ## Connect with me
-[6]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[6]: https://www.linkedin.com/in/tal-zer-aviv/
-
-<!-- Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
 ## Feel free to browse through my projects below:
 - Backflips, a Video Streaming Platform Modeled after Netflix.
 https://backflips.vercel.app/
