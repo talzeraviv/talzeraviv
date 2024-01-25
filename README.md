@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Tal Zer-Aviv!
-![My welcome picture, stating "Hello there, I'm Tal Zer-Aviv.](/assets/images/header.png)
+![My welcome picture, stating "Hello there, I'm Tal Zer-Aviv.](/header.png)
 
 <!--
 **talzeraviv/talzeraviv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
