@@ -10,7 +10,7 @@
 </div>
 
 <div>
-![](https://komarev.com/ghpvc/?username=talzeraviv&color=blue)
+	<img src="https://komarev.com/ghpvc/?username=talzeraviv&color=blue" alt=""/>
 </div>
 
 <div id='description'>
