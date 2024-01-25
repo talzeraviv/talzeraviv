@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Tal Zer-Aviv!
-![My welcome picture, stating "Hello there, I'm Tal Zer-Aviv.](/header.png)
+## ![My welcome picture, stating "Hello there, I'm Tal Zer-Aviv.](/header.png)
 
+I am a software developer, currently working as a tutor and guide for the 'Expert Software Developer (Yahalom)' course @ Sela College.
+Self-taught, a team-player and skilled in public speaking and tutoring.
 <!--
 **talzeraviv/talzeraviv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
